@@ -7,7 +7,7 @@
 iris
 
 # 使用dim(), 回傳iris的列數與欄數
-
+dim(iris)
 
 # 使用head() 回傳iris的前六列
 
